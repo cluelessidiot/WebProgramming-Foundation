@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(206, 51, 141);
+    font-family: Verdana;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: rgb(223, 215, 215);
+}
+
+.BookKvothe {
+    color: blue;
+}
+
+#Reads {
+    color: greenyellow;
+}
+
+#crof {
+    align-items: center;
+}
