@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(206, 51, 141);
+    font-family: Verdana;
+}
+
+#div1 {
+    color: black;
+    background-color: red;
+    margin: 25px;
+    /* padding: 5%; */
+    border: 10px;
+    border-style: dotted;
+    border-color: black;
+}
+
+#div2 {
+    padding: 25px 50px 75px 100px;
+}
