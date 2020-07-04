@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(206, 51, 141);
+    font-family: Verdana;
+}
+
+.green {
+    background-color: blue
+}
+
+.blue {
+    background-color: rgb(1, 1, 2)
+}
+
+#div2 {
+    padding: 25px 50px 75px 100px;
+}
