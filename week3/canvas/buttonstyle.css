@@ -1,0 +1,16 @@
+body {
+    /* // background-color: rgb(206, 51, 141); */
+    font-family: Verdana;
+}
+
+canvas {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid red;
+}
+
+
+/* #div2 {
+    padding: 25px 50px 75px 100px;
+} */

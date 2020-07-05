@@ -8,9 +8,7 @@ function button() {
     // alert('inside function');
 }
 
-function text() {
+function color() {
     var dd1 = document.getElementById("div1");
     var dd2 = document.getElementById("div2");
-    dd1.innerHTML = "121212222"
-    dd2.innerHTML = "wwwwwwwww"
 }
