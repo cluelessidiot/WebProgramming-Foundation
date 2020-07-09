@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js">
+    </script>
+    <script src="proj.js"></script>
+    <title>Image Filter</title>
+    <link href="proj.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="head">
+        <h1>Image Filter</h1>
+    </div>
+    <div id="content">
+        <h2 style="color: blue;">Image</h2>
+        <canvas id="canvas">
+
+        </canvas>
+    </div>
+    <div style="color: blue;">
+        Upload Image
+        <div><input id="img" type="file" value="ClickToAddIamge" accept="image/*" multiple: "false" onchange="uploadImage()"></div>
+    </div>
+    <div><input type="button" value="GreyScale" onclick="greyScale()"><input id="red" type="button" value="Red" onclick="red()"></div>
+    <input id="reset" type="button" value="Reset" onclick="reset()">
+
+</body>
+
+
+</html>
